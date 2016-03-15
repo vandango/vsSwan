@@ -1,0 +1,7 @@
+C:\Code\Test\VSS\VSS\bin\Debug\vs~Swan.exe.config
+C:\Code\Test\VSS\VSS\bin\Debug\vs~Swan.exe
+C:\Code\Test\VSS\VSS\bin\Debug\vs~Swan.pdb
+C:\Code\Test\VSS\VSS\obj\Debug\vandango.Systems.Swan.StandardOutput.TimerOutput.resources
+C:\Code\Test\VSS\VSS\obj\Debug\VSS.csproj.GenerateResource.Cache
+C:\Code\Test\VSS\VSS\obj\Debug\vs~Swan.exe
+C:\Code\Test\VSS\VSS\obj\Debug\vs~Swan.pdb
